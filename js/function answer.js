@@ -2,10 +2,10 @@ function answer(choice) {
     if (choice === 'yes') {
         alert('Ура!');
         showConfetti();
-        showImages('yes.png'); 
+        showImages('img/yes.png'); 
     } else if (choice === 'no') {
         alert(':(');
-        showImages('no.png'); 
+        showImages('img/no.png'); 
     }
 }
 
