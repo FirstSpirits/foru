@@ -8,6 +8,7 @@ body {
     background-color: rgb(201, 141, 141); 
     background-image: url('../img/1.png'); 
     background-size: cover;
+     background-repeat: no-repeat;
 }
 
 .container {
